@@ -1,0 +1,24 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Gibson",
+      "puesto": "Coordinador"
+    },
+    {
+      "id": 2,
+      "nombre": "Belkis",
+      "puesto": "Sub-Coordinador"
+    },
+    {
+      "id": 3,
+      "nombre": "Eunises",
+      "puesto": "Psicologo"
+    },
+    {
+      "id": 4,
+      "nombre": "Lisis",
+      "puesto": "Gestora"
+    }
+  ]
+}
